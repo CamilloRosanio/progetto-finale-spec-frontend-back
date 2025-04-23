@@ -1,0 +1,186 @@
+[
+    {
+        "title": "Tablet X100",
+        "category": "Technology",
+        "brand": "Tech Corp",
+        "price": 499.99,
+        "quantity": 25,
+        "status": "available"
+    },
+    {
+        "title": "Gym Mat",
+        "category": "Sport",
+        "brand": "Supergym Equipment",
+        "price": 19.99,
+        "quantity": 0,
+        "status": "not available"
+    },
+    {
+        "title": "Fancy Lamp",
+        "category": "Design",
+        "brand": "Home Style",
+        "price": 89.5,
+        "quantity": 8,
+        "status": "available"
+    },
+    {
+        "title": "Mexico Guided Tour",
+        "category": "Traveling",
+        "brand": "Adventure Experience",
+        "price": 812.4,
+        "status": "available"
+    },
+    {
+        "title": "Wireless Headphones",
+        "category": "Technology",
+        "brand": "SoundMax",
+        "price": 129.99,
+        "quantity": 15,
+        "status": "available"
+    },
+    {
+        "title": "Fitness Tracker",
+        "category": "Sport",
+        "brand": "FitPulse",
+        "price": 59.95,
+        "quantity": 40,
+        "status": "available"
+    },
+    {
+        "title": "LED Wall Clock",
+        "category": "Design",
+        "price": 45.00,
+        "quantity": 20,
+        "status": "available"
+    },
+    {
+        "title": "Thailand Adventure Package",
+        "category": "Traveling",
+        "brand": "Global Treks",
+        "price": 1100,
+        "status": "available"
+    },
+    {
+        "title": "Smartwatch Pro",
+        "category": "Technology",
+        "brand": "WristTech",
+        "price": 249.99,
+        "quantity": 10,
+        "status": "available"
+    },
+    {
+        "title": "Dumbbell Set 10kg",
+        "category": "Sport",
+        "brand": "PowerLift",
+        "price": 39.99,
+        "quantity": 0,
+        "status": "not available"
+    },
+    {
+        "title": "Minimalist Desk Lamp",
+        "category": "Design",
+        "brand": "Lumino",
+        "price": 32.5,
+        "quantity": 18,
+        "status": "available"
+    },
+    {
+        "title": "City Break in Rome",
+        "category": "Traveling",
+        "price": 299.99,
+        "status": "not available"
+    },
+    {
+        "title": "Noise Cancelling Earbuds",
+        "category": "Technology",
+        "price": 89.0,
+        "quantity": 30,
+        "status": "available"
+    },
+    {
+        "title": "Yoga Resistance Bands",
+        "category": "Sport",
+        "brand": "FlexFit",
+        "price": 14.25,
+        "status": "available"
+    },
+    {
+        "title": "Decorative Wall Art",
+        "category": "Design",
+        "brand": "ArtHouse",
+        "price": 120.0,
+        "quantity": 5,
+        "status": "available"
+    },
+    {
+        "title": "Safari in Kenya",
+        "category": "Traveling",
+        "brand": "Nature Tours",
+        "price": 1890.75,
+        "status": "available"
+    },
+    {
+        "title": "Gaming Laptop G5",
+        "category": "Technology",
+        "brand": "PixelCore",
+        "price": 1299.99,
+        "quantity": 7,
+        "status": "available"
+    },
+    {
+        "title": "Tennis Racket Pro",
+        "category": "Sport",
+        "price": 75.0,
+        "quantity": 12,
+        "status": "available"
+    },
+    {
+        "title": "Designer Floor Vase",
+        "category": "Design",
+        "brand": "Modern Deco",
+        "price": 210.5,
+        "status": "not available"
+    },
+    {
+        "title": "Hiking Weekend in Alps",
+        "category": "Traveling",
+        "price": 450.0,
+        "status": "available"
+    },
+    {
+        "title": "Bluetooth Keyboard",
+        "category": "Technology",
+        "brand": "ClickTech",
+        "price": 39.99,
+        "status": "available"
+    },
+    {
+        "title": "Kettlebell 16kg",
+        "category": "Sport",
+        "price": 34.99,
+        "quantity": 6,
+        "status": "available"
+    },
+    {
+        "title": "Vintage Table Clock",
+        "category": "Design",
+        "price": 55.25,
+        "quantity": 3,
+        "status": "available"
+    },
+    {
+        "title": "Weekend Escape to Prague",
+        "category": "Traveling",
+        "brand": "EscapeGo",
+        "price": 379.0,
+        "status": "available"
+    },
+    {
+        "title": "Noise-Isolating Microphone",
+        "category": "Technology",
+        "brand": "VoiceCast",
+        "price": 69.99,
+        "quantity": 11,
+        "status": "available"
+    }
+]

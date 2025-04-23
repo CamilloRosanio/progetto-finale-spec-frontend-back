@@ -55,11 +55,11 @@ Per ogni risorsa definita in `types.ts` (es. per il tipo `Product`), sono dispon
 
 ### Endpoints
 
-| Metodo | Endpoint            | Descrizione                                | Query Parameters                  |
+| Metodo | Endpoint            | Descrizione                                | Query Parameters                   |
 |--------|---------------------|--------------------------------------------|------------------------------------|
 | GET    | `/{tipo}s`          | Lista di tutti i record                    | `search`, `category`               |
 | GET    | `/{tipo}s/:id`      | Dettaglio di un singolo record             | -                                  |
-| POST   | `/{tipo}s`          | Creazione di un nuovo record              | -                                  |
+| POST   | `/{tipo}s`          | Creazione di un nuovo record               | -                                  |
 | PUT    | `/{tipo}s/:id`      | Aggiornamento di un record esistente       | -                                  |
 | DELETE | `/{tipo}s/:id`      | Eliminazione di un record                  | -                                  |
 
