@@ -1,5 +1,8 @@
 [
     {
+        "id": 1,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Tablet X100",
         "category": "Technology",
         "brand": "Tech Corp",
@@ -8,6 +11,9 @@
         "status": "available"
     },
     {
+        "id": 2,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Gym Mat",
         "category": "Sport",
         "brand": "Supergym Equipment",
@@ -16,6 +22,9 @@
         "status": "not available"
     },
     {
+        "id": 3,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Fancy Lamp",
         "category": "Design",
         "brand": "Home Style",
@@ -24,6 +33,9 @@
         "status": "available"
     },
     {
+        "id": 4,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Mexico Guided Tour",
         "category": "Traveling",
         "brand": "Adventure Experience",
@@ -31,6 +43,9 @@
         "status": "available"
     },
     {
+        "id": 5,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Wireless Headphones",
         "category": "Technology",
         "brand": "SoundMax",
@@ -39,6 +54,9 @@
         "status": "available"
     },
     {
+        "id": 6,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Fitness Tracker",
         "category": "Sport",
         "brand": "FitPulse",
@@ -47,13 +65,19 @@
         "status": "available"
     },
     {
+        "id": 7,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "LED Wall Clock",
         "category": "Design",
-        "price": 45.00,
+        "price": 45.0,
         "quantity": 20,
         "status": "available"
     },
     {
+        "id": 8,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Thailand Adventure Package",
         "category": "Traveling",
         "brand": "Global Treks",
@@ -61,6 +85,9 @@
         "status": "available"
     },
     {
+        "id": 9,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Smartwatch Pro",
         "category": "Technology",
         "brand": "WristTech",
@@ -69,6 +96,9 @@
         "status": "available"
     },
     {
+        "id": 10,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Dumbbell Set 10kg",
         "category": "Sport",
         "brand": "PowerLift",
@@ -77,6 +107,9 @@
         "status": "not available"
     },
     {
+        "id": 11,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Minimalist Desk Lamp",
         "category": "Design",
         "brand": "Lumino",
@@ -85,12 +118,18 @@
         "status": "available"
     },
     {
+        "id": 12,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "City Break in Rome",
         "category": "Traveling",
         "price": 299.99,
         "status": "not available"
     },
     {
+        "id": 13,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Noise Cancelling Earbuds",
         "category": "Technology",
         "price": 89.0,
@@ -98,6 +137,9 @@
         "status": "available"
     },
     {
+        "id": 14,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Yoga Resistance Bands",
         "category": "Sport",
         "brand": "FlexFit",
@@ -105,6 +147,9 @@
         "status": "available"
     },
     {
+        "id": 15,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Decorative Wall Art",
         "category": "Design",
         "brand": "ArtHouse",
@@ -113,6 +158,9 @@
         "status": "available"
     },
     {
+        "id": 16,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Safari in Kenya",
         "category": "Traveling",
         "brand": "Nature Tours",
@@ -120,6 +168,9 @@
         "status": "available"
     },
     {
+        "id": 17,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Gaming Laptop G5",
         "category": "Technology",
         "brand": "PixelCore",
@@ -128,6 +179,9 @@
         "status": "available"
     },
     {
+        "id": 18,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Tennis Racket Pro",
         "category": "Sport",
         "price": 75.0,
@@ -135,6 +189,9 @@
         "status": "available"
     },
     {
+        "id": 19,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Designer Floor Vase",
         "category": "Design",
         "brand": "Modern Deco",
@@ -142,12 +199,18 @@
         "status": "not available"
     },
     {
+        "id": 20,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Hiking Weekend in Alps",
         "category": "Traveling",
         "price": 450.0,
         "status": "available"
     },
     {
+        "id": 21,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Bluetooth Keyboard",
         "category": "Technology",
         "brand": "ClickTech",
@@ -155,6 +218,9 @@
         "status": "available"
     },
     {
+        "id": 22,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Kettlebell 16kg",
         "category": "Sport",
         "price": 34.99,
@@ -162,6 +228,9 @@
         "status": "available"
     },
     {
+        "id": 23,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Vintage Table Clock",
         "category": "Design",
         "price": 55.25,
@@ -169,6 +238,9 @@
         "status": "available"
     },
     {
+        "id": 24,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Weekend Escape to Prague",
         "category": "Traveling",
         "brand": "EscapeGo",
@@ -176,6 +248,9 @@
         "status": "available"
     },
     {
+        "id": 25,
+        "createdAt": "2025-04-23T10:00:00Z",
+        "updatedAt": "2025-04-23T10:00:00Z",
         "title": "Noise-Isolating Microphone",
         "category": "Technology",
         "brand": "VoiceCast",
