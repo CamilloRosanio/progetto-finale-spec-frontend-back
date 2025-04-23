@@ -1,4 +1,4 @@
 node_modules
-database
-types.ts
+# database
+# types.ts
 schema.js
